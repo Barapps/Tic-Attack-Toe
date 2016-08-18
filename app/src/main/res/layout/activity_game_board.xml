@@ -98,4 +98,23 @@
         android:layout_toRightOf="@+id/C1"
         android:layout_toEndOf="@+id/C1"
         android:text="C2" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Reset"
+        android:id="@+id/resetBtn"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Player"
+        android:id="@+id/playerView"
+        android:layout_alignBottom="@+id/resetBtn"
+        android:layout_toRightOf="@+id/resetBtn" />
 </RelativeLayout>
