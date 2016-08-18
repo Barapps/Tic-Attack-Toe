@@ -17,6 +17,7 @@ public class tpChal extends Game_board {
     int p1, p2;
 
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
