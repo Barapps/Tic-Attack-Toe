@@ -185,10 +185,12 @@ public class Game_board extends AppCompatActivity {
 
         if (player == 1) {
 
-            player = 2;
+                player = 2;
 
-            button.setText("X");
-            button.setClickable(false);
+                button.setText("X");
+                button.setClickable(false);
+
+
 
         } else {
 
