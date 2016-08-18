@@ -10,6 +10,7 @@ public class tpChal extends Game_board {
     Button player1, player2;
     TextView one, two;
     int p1, p2;
+
     
     @Override
     protected void onCreate(Bundle savedInstanceState) {
