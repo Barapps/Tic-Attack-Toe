@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="translatetakeoff.xml" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping pattern="fadeout" type="XML" />
+      <mapping pattern="tapChallenge" type="XML" />
+      <mapping pattern="translatetakeoff" type="XML" />
+      <mapping ext="xl" type="XML" />
+    </extensionMap>
+  </component>
+</application>
