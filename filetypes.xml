@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="translatetakeoff.xml" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping pattern="fadein" type="XML" />
       <mapping pattern="fadeout" type="XML" />
       <mapping pattern="tapChallenge" type="XML" />
       <mapping pattern="translatetakeoff" type="XML" />
